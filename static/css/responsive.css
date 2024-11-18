@@ -1,0 +1,1841 @@
+/* Normal desktop :1400px. */
+@media (min-width: 1400px) and (max-width: 1600px) {
+
+.join-shape-1 {
+    left: -3%;
+}
+
+.join-shape-2 {
+    right: -93%;
+}
+
+.social-area {
+    background-position: center center;
+}
+
+
+
+
+
+}
+
+/* Normal desktop :1300px. */
+@media (min-width: 1300px) and (max-width: 1399px) {
+
+.header-menu ul li {
+    margin-right: 30px;
+}
+
+ .header-button a {
+    margin-left: 16px;
+} 
+
+.join-shape-1 {
+    left: -1%;
+}
+
+.join-shape-2 {
+    right: -92%;
+}
+
+.donate-thumb {
+    margin-left: -88px;
+}
+
+.section-title h1 {
+    font-size: 36px;
+}
+
+.section-title.center h4::before {
+    left: 41%;
+}
+
+.video-thumb {
+    margin-left: -80px;
+}
+
+.team-section .section-title.center h4::before {
+    left: 44%;
+}
+
+.social-area {
+    background-position: center;
+}
+
+.social-account-desc p {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.campaign-area .section-title.center h4::before {
+    left: 45%;
+}
+
+.single-campaign-box {
+    padding: 40px 35px 28px 244px;
+}
+
+.widget-campaign-content a {
+    width: 100%;
+}
+
+
+/*blog*/
+.blog-content a {
+    font-size: 17px;
+    line-height: 28px;
+}
+
+/*blog-details*/
+.blog-details-content h2 {
+    font-size: 26px;
+}
+
+.blog-details-author-thumb {
+    margin-right: 11px;
+}
+
+
+/*donation-section*/
+.donate-section-two .section-title.center h4::before {
+    left: 44.12%;
+}
+
+/*volunteer-section*/
+.volunteer-thumb {
+    margin-left: -88px;
+}
+
+/*campings*/
+
+.campings-thumb-two img {
+    width: 100%;
+    margin-left: -12px;
+}
+
+/*campaing-details-section*/
+.campaign-details-thumb img {
+    width: 100%;
+}
+
+.campaign-rpost-content h4 a {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.campaign-details-desc p {
+    width: 100%;
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1299px) {
+
+.header-menu ul li {
+    margin-right: 30px;
+}
+
+ .header-button a {
+    margin-left: 16px;
+} 
+
+.join-shape-1 {
+    left: -1%;
+}
+
+.join-shape-2 {
+    right: -92%;
+}
+
+.donate-thumb {
+    margin-left: -88px;
+}
+
+.section-title h1 {
+    font-size: 36px;
+}
+
+.section-title.center h4::before {
+    left: 41%;
+}
+
+.video-thumb {
+    margin-left: -80px;
+}
+
+.team-section .section-title.center h4::before {
+    left: 44%;
+}
+
+.social-area {
+    background-position: center;
+}
+
+.social-account-desc p {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.campaign-area .section-title.center h4::before {
+    left: 45%;
+}
+
+.single-campaign-box {
+    padding: 40px 35px 28px 244px;
+}
+
+.campaign-box-content h4 {
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.call-do-action-area::before {
+    width: 37%;
+}
+
+.call-do-action-content h4 {
+    font-size: 30px;
+}
+
+.widget-campaign-content a {
+    width: 100%;
+}
+
+
+/*blog*/
+.blog-content a {
+    font-size: 17px;
+    line-height: 28px;
+}
+
+/*blog-details*/
+.blog-details-content h2 {
+    font-size: 26px;
+}
+
+.blog-details-author-thumb {
+    margin-right: 11px;
+}
+
+/*donation*/
+.donate-section-two .section-title.center h4::before {
+    left: 44.2%;
+}
+
+/*volunteer-section*/
+.volunteer-thumb {
+    margin-left: -88px;
+}
+
+/*campings*/
+
+.campings-thumb-two img {
+    width: 100%;
+    margin-left: -12px;
+}
+
+/*campaing-details-section*/
+.campaign-details-thumb img {
+    width: 100%;
+}
+
+.campaign-rpost-content h4 a {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.campaign-details-desc p {
+    width: 100%;
+    text-align: justify;
+}
+
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+.header-button a {
+    margin-left: 8px;
+        font-size: 14px;
+}
+.header-menu ul li {
+    margin-right: 14px;
+}   
+
+.join-content h4 {
+    font-size: 35px;
+    line-height: 30px;
+}
+
+button.join-button {
+    padding: 17px 24px;
+}
+
+.donate-thumb img {
+    width: 100%;
+    margin-left: -58px;
+}
+
+.donate-shape {
+    right: 48px;
+}
+
+.section-title h1 {
+    font-size: 34px;
+    line-height: 30px;
+}
+
+.donate ul li {
+    padding: 9px 22px;
+    margin-right: 0px;
+}
+
+.section-title.style-two h1 {
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.mission-item-content p {
+    width: 80%;
+}
+
+.section-title.center h4::before {
+    left: 39%;
+}
+
+.single-principle-box {
+    padding: 45px 20px 25px;
+}
+
+.video-thumb {
+    margin-left: 0;
+    left: -42px;
+}
+
+.video-thumb img {
+    width: 100%;
+}
+
+.team-section .section-title.center h4::before {
+    left: 43%;
+}
+
+.social-area {
+    background-position: center center;
+}
+
+.social-account-desc p {
+    font-size: 15px;
+    line-height: 26px;
+    width: 90%;
+}
+
+.social-account-content p {
+    font-size: 17px;
+}
+
+.campaign-box-content h4 {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.single-campaign-box {
+    padding: 40px 6px 28px 225px;
+}
+
+.campaign-box-content p {
+    font-size: 13px;
+    line-height: 22px;
+}
+
+.call-do-action-area::before {
+    width: 36%;
+}
+
+.call-do-action-content h4 {
+    font-size: 24px;
+}
+
+.call-do-social-content h4 {
+    font-size: 20px;
+}
+
+.footer-area {
+    padding: 119px 0 79px;
+}
+
+.widget-campaign-content a {
+    font-size: 13px;
+    width: 100%;
+    line-height: 20px;
+}
+
+/*blog*/
+.blog-content {
+    width: 95%;
+    padding: 10px 33px 16px;
+}
+
+.blog-content a {
+    font-size: 16px;
+    line-height: 26px;
+}
+/*blog-details*/
+.blog-details-content h2 {
+    font-size: 24px;
+}
+
+.blog-details-content p {
+    text-align: justify;
+}
+
+.blog-details-des p {
+    text-align: justify;
+}
+
+.blog-details-author-thumb {
+    margin-top: 19px;
+}
+
+.recent-widget-thumb {
+    margin-right: 18px;
+}
+
+.sidber-widget-recent-post .recent-widget-content a {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+/*donation*/
+.donate-section-two .section-title.center h4::before {
+    left: 44.2%;
+}
+
+/*volunteer-section*/
+.volunteer-thumb {
+    position: relative;
+    left: -35px;
+}
+
+.volunteer-thumb img {
+    width: 100%;
+}
+
+.total-volunteer {
+    left: 48%;
+}
+
+
+/*campings*/
+.campings-thumb-two img {
+    width: 100%;
+    margin-left: -12px;
+}
+
+.campings-area-two .campaign-box-content h4 {
+    font-size: 30px;
+    line-height: 30px;
+}
+
+/*campaing-details-section*/
+.campaign-details-thumb img {
+    width: 100%;
+}
+
+.campaign-rpost-content h4 a {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.campaign-details-desc p {
+    width: 100%;
+    text-align: justify;
+}
+
+.campaign-widget-items {
+    padding: 35px 28px 11px 28px;
+}
+
+
+
+
+
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.top-bar-area {
+    display: none;
+}
+
+.header-area {
+    display: none;
+}
+
+.hero-area {
+    margin-top: 55px;
+}
+
+.join-content {
+    margin-bottom: 40px;
+}
+
+.join-shape-1 {
+    display: none;
+}
+
+.join-shape-2 {
+    display: none;
+}
+
+.join-input-box input {
+    width: 50%;
+}
+
+button.join-button {
+    padding: 17px 18px;
+}
+
+.donate-thumb img {
+    width: 66%;
+    margin-bottom: 18px;
+}
+
+p.section-desc-1 {
+    width: 70%;
+}
+
+.mission-item-content p {
+    width: 64%;
+}
+
+.mission-thumb img {
+    width: 80%;
+    margin-top: 9px;
+}
+
+.principles-area {
+    padding: 91px 0 96px;
+}
+
+.section-title.center h4::before {
+    left: 36%;
+}
+
+.single-principle-box {
+    padding: 45px 25px 25px;
+    margin-bottom: 20px;
+}
+
+.video-thumb {
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+
+.video-area p.section-desc-1 {
+    width: 84%;
+}
+
+.team-section .section-title.center h4::before {
+    left: 41%;
+}
+
+.team-section {
+    padding: 311px 0 94px;
+}
+
+.single-team-box {
+    margin-bottom: 26px;
+}
+
+.team-socila-icon {
+    left: 32%;
+}
+
+.social-account-desc p {
+    margin-left: 0;
+    width: 80%;
+    margin-top: 27px;
+}
+
+.social-account-user {
+    margin-left: 0;
+}
+
+.campaign-area .section-title.center h4::before {
+    left: 41.8%;
+}
+
+.call-do-action-content h4 {
+    font-size: 30px;
+}
+
+.call-do-social-media {
+    margin-top: 35px;
+}
+
+.call-do-action-button {
+    position: relative;
+    top: 46px;
+}
+
+.footer-area {
+    background-size: cover;
+    background-position: center center;
+}
+
+.footer-widget-content {
+    margin-bottom: 35px;
+}
+
+/*blog*/
+.blog-button {
+    text-align: left;
+    margin-top: -22px;
+    margin-bottom: 43px;
+}
+
+.blog-content {
+    width: 90%;
+    padding: 10px 38px 16px;
+}
+
+.blog-content a {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+/*blog-detilas*/
+.blog-details-content h2 {
+    font-size: 26px;
+    line-height: 30px;
+}
+
+.blog-details-author-thumb {
+    margin-top: 16px;
+}
+
+/*donation*/
+.donate-section-two .section-title.center h4::before {
+    left: 41.2%;
+}
+
+button.tablink {
+    margin-bottom: 15px;
+}
+
+/*volunteer*/
+.volunteer-thumb {
+    margin-bottom: 24px;
+}
+
+.total-volunteer {
+    left: 0;
+    padding-top: 8px;
+}
+
+/*campings*/
+.campings-thumb-two.responsive {
+    margin-bottom: 26px;
+}
+
+.campings-thumb-two {
+    margin-top: 24px;
+}
+
+/*campings-details*/
+.campaign-details-thumb img {
+    width: 100%;
+}
+
+.campaign-details-desc p {
+    width: 100%;
+    text-align: justify;
+}
+
+.campaign-info {
+    margin-top: 36px;
+}
+
+
+.sticky {
+    position: absolute !important;
+}
+
+
+
+
+
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+ .top-bar-area {
+    display: none;
+}
+
+.header-area {
+    display: none;
+}
+
+.hero-area {
+    margin-top: 55px;
+}
+
+.hero-content h1 {
+    font-size: 44px;
+    line-height: 46px;
+}
+
+.join-content {
+    margin-bottom: 40px;
+}
+
+.join-shape-1 {
+    display: none;
+}
+
+.join-shape-2 {
+    display: none;
+}
+
+.join-input-box input {
+    width: 50%;
+}
+
+button.join-button {
+    padding: 17px 18px;
+}
+
+.donate-thumb img {
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+p.section-desc-1 {
+    width: 95%;
+}
+
+.mission-item-content p {
+    width: 70%;
+}
+
+.mission-thumb img {
+    width: 100%;
+    margin-top: 9px;
+}
+
+.section-title h1 {
+    font-size: 32px;
+    line-height: 31px;
+}
+
+.principles-area {
+    padding: 91px 0 96px;
+}
+
+.section-title.center h4::before {
+    left: 31%;
+}
+
+.single-principle-box {
+    padding: 45px 42px 25px;
+    margin-bottom: 20px;
+}
+
+.video-thumb {
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+
+.video-thumb img {
+    width: 100%;
+}
+
+.video-area p.section-desc-1 {
+    width: 84%;
+}
+
+.row.add-bg {
+    padding: 48px 0 0;
+}
+
+.single-counter-box {
+    margin-bottom: 58px;
+}
+
+.team-section .section-title.center h4::before {
+    left: 37%;
+}
+
+.team-section {
+    padding: 532px 0 94px;
+    margin-top: -440px;
+}
+
+.single-team-box {
+    margin-bottom: 26px;
+}
+
+.team-socila-icon {
+    left: 40%;
+}
+
+.social-account-desc p {
+    margin-left: 0;
+    width: 100%;
+    margin-top: 27px;
+}
+
+.social-account-user {
+    margin-left: 0;
+}
+
+.campaign-area .section-title.center h4::before {
+    left: 39.8%;
+}
+
+.campaign-box-content h4 {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.single-campaign-box {
+    padding: 40px 50px 28px 226px;
+}
+
+.campaign-box-content p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.call-do-action-area::before {
+    background: transparent;
+}
+
+.call-do-action-content h4 {
+    font-size: 30px;
+}
+
+.call-do-social-media {
+    margin-top: 35px;
+}
+
+.call-do-action-button {
+    position: relative;
+    top: 0;
+    text-align: left;
+    margin: 45px 0 2px;
+}
+
+.footer-area {
+    background-size: cover;
+    background-position: center center;
+    padding: 119px 0 50px;
+}
+
+.footer-widget-desc p {
+    width: 96%;
+}
+
+.footer-widget-content {
+    margin-bottom: 58px;
+}
+
+.widget-campaign-content a {
+    font-size: 15px;
+    width: 100%;
+}
+
+.footer-bottom-list-item {
+    text-align: left;
+}
+
+.footer-bottom-list-item ul li {
+    margin-left: 0;
+    margin-right: 18px;
+}
+
+
+/*blog*/
+.blog-button {
+    text-align: left;
+    margin-top: -22px;
+    margin-bottom: 43px;
+}
+
+.blog-content {
+    width: 90%;
+    padding: 10px 38px 16px;
+}
+
+.blog-content a {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+/*blog-detilas*/
+.blog-details-content h2 {
+    font-size: 26px;
+    line-height: 40px;
+}
+
+.blog-details-author-thumb {
+    margin-top: 37px;
+}
+
+.blog-details-content p {
+    text-align: justify;
+}
+
+.blog-details-des p {
+    text-align: justify;
+}
+
+.blog-details-comment.reply {
+    margin-left: 50px;
+}
+
+/*donation*/
+.donate-section-two .section-title.center h4::before {
+    left: 38.2%;
+}
+
+.row.donate_upper {
+    padding: 50px 13px 45px;
+}
+
+button.tablink {
+    height: 50px;
+    width: 87px;
+    margin-right: 0;
+    margin-bottom: 15px;
+}
+
+.dontaions-form-box {
+    padding: 53px 26px 32px;
+}
+
+/*volunteer*/
+.volunteer-left {
+    margin-left: 0;
+}
+
+.volunteer-thumb img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.total-volunteer {
+    left: 0;
+}
+
+.volunteer-form .row.add-border {
+    padding: 85px 20px 32px;
+}
+
+.breadcumb-content h4 {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+/*campings*/
+.campings-thumb-two.responsive {
+    margin-bottom: 26px;
+}
+
+.campings-thumb-two {
+    margin-top: 24px;
+}
+
+.campings-thumb-two img {
+    width: 100%;
+}
+
+/*campings-details*/
+.campaign-details-thumb img {
+    width: 100%;
+}
+
+.campaign-details-title h2 a {
+    font-size: 24px;
+}
+
+.campaign-details-desc p {
+    width: 100%;
+    text-align: justify;
+}
+
+.campaign-info {
+    margin-top: 36px;
+}
+
+.campign-details-thumb-2 {
+    margin-bottom: 24px;
+}
+
+.row.mt-55 {
+    padding: 0 0 0;
+}
+
+
+
+.sticky {
+    position: absolute !important;
+}
+
+
+
+ }
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+   .top-bar-area {
+    display: none;
+}
+
+.header-area {
+    display: none;
+}
+
+.hero-area {
+    margin-top: 60px;
+}
+
+.hero-content h1 {
+    font-size: 38px;
+    line-height: 40px;
+}
+
+.join-content {
+    margin-bottom: 40px;
+}
+
+.join-content h4 {
+    font-size: 34px;
+    line-height: 30px;
+}
+
+.join-shape-1 {
+    display: none;
+}
+
+.join-shape-2 {
+    display: none;
+}
+
+.join-input-box input {
+    width: 50%;
+}
+
+button.join-button {
+    padding: 17px 18px;
+}
+
+.donate-thumb img {
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+p.section-desc-1 {
+    width: 90%;
+}
+
+.donate ul li {
+    padding: 9px 24px;;
+    margin-right: -1px;
+}
+
+.mission-item-content p {
+    width: 80%;
+}
+
+.mission-thumb img {
+    width: 100%;
+    margin-top: 9px;
+}
+
+.section-title h1 {
+    font-size: 28px;
+    line-height: 29px;
+}
+
+.principles-area {
+    padding: 91px 0 96px;
+}
+
+.section-title.center h4::before {
+    left: 28%;
+}
+
+.single-principle-box {
+    padding: 45px 42px 25px;
+    margin-bottom: 20px;
+}
+
+.video-thumb {
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+
+.video-thumb img {
+    width: 100%;
+}
+
+.video-area p.section-desc-1 {
+    width: 90%;
+}
+
+.row.add-bg {
+    padding: 48px 0 0;
+}
+
+.single-counter-box {
+    margin-bottom: 58px;
+}
+
+.team-section .section-title.center h4::before {
+    left: 37%;
+}
+
+.team-section {
+    padding: 532px 0 94px;
+    margin-top: -440px;
+}
+
+.single-team-box {
+    margin-bottom: 26px;
+}
+
+.team-socila-icon {
+    left: 40%;
+}
+
+.social-area {
+    background-position: center right;
+}
+
+.social-account-desc p {
+    margin-left: 0;
+    width: 100%;
+    margin-top: 27px;
+}
+
+.social-account-user {
+    margin-left: 0;
+}
+
+.campaign-area .section-title.center h4::before {
+    left: 37.8%;
+}
+
+.campaign-box-content h4 {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.single-campaign-box {
+    padding: 40px 4px 28px 220px;
+}
+
+.campaign-box-content p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.call-do-action-area::before {
+    background: transparent;
+}
+
+.call-do-action-content h4 {
+    font-size: 30px;
+}
+
+.call-do-social-media {
+    margin-top: 35px;
+}
+
+.call-do-action-button {
+    position: relative;
+    top: 0;
+    text-align: left;
+    margin: 45px 0 2px;
+}
+
+.footer-area {
+    background-size: cover;
+    background-position: center center;
+    padding: 119px 0 50px;
+}
+
+.footer-widget-desc p {
+    width: 70%;
+}
+
+.footer-widget-content {
+    margin-bottom: 58px;
+}
+
+.widget-campaign-content a {
+    font-size: 17px;
+    width: 70%;
+}
+
+.footer-bottom-list-item {
+    text-align: left;
+}
+
+.footer-bottom-list-item ul li {
+    margin-left: 0;
+    margin-right: 18px;
+}
+
+/*blog*/
+.blog-button {
+    text-align: left;
+    margin-top: -22px;
+    margin-bottom: 43px;
+}
+
+.blog-content {
+    width: 75%;
+    padding: 10px 38px 16px;
+}
+
+.blog-content a {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+/*blog-detilas*/
+.blog-details-meta {
+    padding: 16px 18px;
+}
+
+.blog-details-meta span {
+    margin-right: 10px;
+}
+
+.blog-details-content h2 {
+    font-size: 26px;
+    line-height: 40px;
+}
+
+.blog-details-author-thumb {
+    margin-top: 69px;
+}
+
+.blog-details-content p {
+    text-align: justify;
+}
+
+.blog-details-des p {
+    text-align: justify;
+}
+
+.blog-details-comment.reply {
+    margin-left: 3px;
+}
+
+/*donation*/
+.donate-section-two .section-title.center h4::before {
+    left: 37.2%;
+}
+
+.row.donate_upper {
+    padding: 50px 13px 45px;
+}
+
+button.tablink {
+    height: 50px;
+    width: 76px;
+    margin-right: 0;
+    margin-bottom: 15px;
+}
+
+.dontaions-form-box {
+    padding: 53px 26px 32px;
+}
+
+/*volunteer*/
+.volunteer-left {
+    margin-left: 0;
+}
+
+.volunteer-thumb img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.total-volunteer {
+    left: 0;
+}
+
+.volunteer-form .row.add-border {
+    padding: 85px 20px 32px;
+}
+
+
+/*campings*/
+.campings-thumb-two.responsive {
+    margin-bottom: 26px;
+}
+
+.campings-thumb-two {
+    margin-top: 24px;
+}
+
+.campings-thumb-two img {
+    width: 100%;
+}
+
+.campings-area-two .campaign-box-content h4 {
+    font-size: 26px;
+    line-height: 22px;
+}
+
+/*breadcumb*/
+.breadcumb-content h4 {
+    font-size: 28px;
+    line-height: 38px;
+}
+
+/*campings-details*/
+.campaign-details-thumb img {
+    width: 100%;
+}
+
+.campaign-details-title h2 a {
+    font-size: 21px;
+}
+
+.campaign-details-desc p {
+    width: 100%;
+    text-align: justify;
+}
+
+.campaign-info {
+    margin-top: 36px;
+}
+
+.campign-details-thumb-2 {
+    margin-bottom: 24px;
+}
+
+.row.mt-55 {
+    padding: 0 0 0;
+}
+
+
+.sticky {
+    position: absolute !important;
+}
+
+
+
+
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    .top-bar-area {
+    display: none;
+}
+
+.header-area {
+    display: none;
+}
+
+.hero-area {
+    height: 670px;
+    text-align: center;
+    margin-top: 56px;
+}
+
+.hero-content h1 {
+    font-size: 25px;
+    line-height: 22px;
+}
+
+.hero-content h4 {
+    font-size: 14px;
+}
+
+.countdown ul li span {
+    margin-right: 0px;
+}
+
+.join-content {
+    margin-bottom: 40px;
+}
+
+.join-content h4 {
+    font-size: 22px;
+    line-height: 16px;
+}
+
+.join-shape-1 {
+    display: none;
+}
+
+.join-shape-2 {
+    display: none;
+}
+
+.join-input-box input {
+    width: 100%;
+}
+
+button.join-button {
+    padding: 17px 18px;
+    margin: 12px 0 0;
+}
+
+.donate-thumb img {
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+p.section-desc-1 {
+    width: 100%;
+}
+
+.donate ul li {
+    padding: 9px 24px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.mission-item-content p {
+    width: 100%;
+}
+
+.mission-thumb img {
+    width: 100%;
+    margin-top: 9px;
+}
+
+.mission-item {
+    display: block;
+    margin-bottom: 28px;
+}
+
+.section-title h1 {
+    font-size: 18px;
+    line-height: 15px;
+}
+
+.principles-area {
+    padding: 91px 0 96px;
+}
+
+.section-title.center h4::before {
+    left: 16%;
+}
+
+.single-principle-box {
+    padding: 45px 22px 25px;
+    margin-bottom: 20px;
+}
+
+.video-thumb {
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+
+.video-thumb img {
+    width: 100%;
+}
+
+.video-area p.section-desc-1 {
+    width: 100%;
+}
+
+.row.add-bg {
+    padding: 48px 0 0;
+}
+
+.single-counter-box {
+    margin-bottom: 58px;
+}
+
+.team-section .section-title.center h4::before {
+    left: 28%;
+}
+
+.team-section {
+    padding: 532px 0 94px;
+    margin-top: -440px;
+}
+
+.single-team-box {
+    margin-bottom: 26px;
+}
+
+.team-socila-icon {
+    left: 30%;
+}
+
+.social-area {
+    background-position: center right;
+}
+
+.social-account-desc p {
+    margin-left: 0;
+    width: 100%;
+    margin-top: 27px;
+    font-size: 15px;
+    line-height: 28px;
+}
+
+.social-account-user {
+    margin-left: 0;
+}
+
+.campaign-area .section-title.center h4::before {
+    left: 31.8%;
+}
+
+.campaign-box-content h4 {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.single-campaign-box {
+    padding: 40px 20px 28px 20px;
+}
+
+.single-campaign-box::before {
+    background: transparent;
+}
+
+.single-campaign-box.two::before {
+    background: transparent;
+}
+
+.single-campaign-box.three::before {
+    background: transparent;
+}
+
+.single-campaign-box.four::before {
+    background: transparent;
+}
+
+
+.campaign-box-content p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.call-do-action-area::before {
+    background: transparent;
+}
+
+.call-do-action-content h4 {
+    font-size: 24px;
+}
+
+.call-do-social-content h4 {
+    font-size: 20px;
+}
+
+.call-do-social-media {
+    margin-top: 35px;
+}
+
+.call-do-action-button {
+    position: relative;
+    top: 0;
+    text-align: left;
+    margin: 45px 0 2px;
+}
+
+.footer-area {
+    background-size: cover;
+    background-position: center center;
+    padding: 119px 0 50px;
+}
+
+.footer-widget-desc p {
+    width: 100%;
+}
+
+.footer-widget-content {
+    margin-bottom: 58px;
+}
+
+.widget-campaign-content a {
+    font-size: 17px;
+    width: 85%;
+}
+
+.footer-bottom-list-item {
+    text-align: left;
+}
+
+.footer-bottom-list-item ul li {
+    margin-left: 0;
+    margin-right: 18px;
+}
+
+/*blog*/
+.blog-button {
+    text-align: left;
+    margin-top: -22px;
+    margin-bottom: 43px;
+}
+
+.blog-content {
+    width: 100%;
+    padding: 10px 40px 16px;
+}
+
+.blog-content a {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+/*blog-detilas*/
+.blog-details-main {
+    padding: 12px;
+}
+
+.blog-details-meta {
+    padding: 16px 18px;
+}
+
+.blog-details-meta span {
+    margin-right: 10px;
+    display: inherit;
+}
+
+.blog-details-content h2 {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.blog-details-author-inner {
+    padding: 30px 30px 23px;
+}
+
+.blog-details-author-thumb {
+    margin-top: 0;
+    float: inherit;
+}
+
+.blog-details-blockquote {
+    padding: 40px 20px 26px;
+}
+
+.blog-details-blockquote blockquote {
+    font-size: 16px;
+}
+
+.blog-details-content p {
+    text-align: justify;
+}
+
+.blog-details-des p {
+    text-align: justify;
+}
+
+.blog-details-comment.reply {
+    margin-left: 3px;
+}
+
+.blog-details-content-list p i {
+    font-size: 14px;
+}
+
+
+.blog-details-social {
+    text-align: left;
+    margin-top: 12px;
+}
+
+.blog-details-comment-thumb {
+    float: inherit;
+    margin-right: 0;
+    margin-bottom: 13px;
+}
+
+.widget-categories-box.style1 {
+    padding: 18px 17px 12px;
+}
+
+.sidber-widget-recent-post .recent-widget-content a {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+
+/*donation*/
+.donate-section-two .section-title.center h4::before {
+    left: 30.2%;
+}
+
+.row.donate_upper {
+    padding: 50px 13px 45px;
+}
+
+button.tablink {
+    height: 50px;
+    width: 76px;
+    margin-right: 0;
+    margin-bottom: 15px;
+}
+
+.dontaions-form-box {
+    padding: 53px 26px 32px;
+}
+
+/*volunteer*/
+.volunteer-left {
+    margin-left: 0;
+}
+
+.volunteer-thumb img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.total-volunteer {
+    left: 0;
+}
+
+.volunteer-form .row.add-border {
+    padding: 85px 6px 32px;
+}
+
+.volunteer-title h1 {
+    font-size: 22px;
+}
+
+
+/*campings*/
+.campings-thumb-two.responsive {
+    margin-bottom: 26px;
+}
+
+.campings-thumb-two {
+    margin-top: 24px;
+}
+
+.campings-thumb-two img {
+    width: 100%;
+}
+
+.campings-area-two .campaign-box-content h4 {
+    font-size: 18px;
+    line-height: 15px;
+}
+
+/*breadcumb*/
+.breadcumb-content h4 {
+    font-size: 20px;
+    line-height: 22px;
+}
+
+/*campings-details*/
+.campaign-details-thumb img {
+    width: 100%;
+}
+
+.campaign-details-title h2 a {
+    font-size: 21px;
+}
+
+.campaign-details-desc p {
+    width: 100%;
+    text-align: justify;
+}
+
+.campaign-info {
+    margin-top: 36px;
+}
+
+.campaign-widget-items {
+    padding: 35px 14px 11px 21px;
+}
+
+.campaign-rpost-content h4 a {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.campign-details-thumb-2 {
+    margin-bottom: 24px;
+}
+
+.row.mt-55 {
+    padding: 0 0 0;
+}
+
+/*contact-section*/
+.contact_from_box {
+    padding: 27px 20px 45px;
+}
+
+.cda-single-content {
+    margin: 0px 16px;
+}
+
+.cda-icon i {
+    margin-right: 14px;
+}
+
+.cda-content-inner h4 {
+    font-size: 18px;
+    margin-bottom: -4px;
+}
+
+.sticky {
+    position: absolute !important;
+}
+
+
+
+
+}
+
+
+
+
+/*xl device min width*/
+@media screen and (min-width:992px) {
+    .pl-lg-50 {
+        padding-left: 50px;
+    }
+}
+
+/*xl device min width*/
+@media screen and (min-width:1200px) {
+    .video-icon {
+        left: 75%;
+    }
+}
